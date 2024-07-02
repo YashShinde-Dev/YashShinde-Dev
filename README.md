@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshinde96&label=Profile%20views&color=0e75b6&style=flat" alt="yashshinde96" /> </p>
 
-- 🔭 I’m currently working on [Spring Boot Microservices](https://github.com/yashshinde96/Microservices)
+- 🔭 I’m currently working on [Spring Boot Microservices](https://github.com/YashShinde-Dev/Microservices.git)
 
 - 🌱 I’m currently learning **REACT , Nodejs**
 
-- 🤝 I’m looking for help with [Cloud Deployment](https://github.com/yashshinde96/Microservices)
+- 🤝 I’m looking for help with [Cloud Deployment](https://github.com/YashShinde-Dev/Microservices.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashshinde96?tab=repositories](https://github.com/yashshinde96?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/YashShinde-Dev](https://github.com/YashShinde-Dev)
 
 - 💬 Ask me about **Java, Spring MVC, Spring Boot, MySql, Oracle, PostgreSql, HTML, JSP**
 
